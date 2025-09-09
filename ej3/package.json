@@ -1,0 +1,16 @@
+{
+  "name": "ejercicio3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ej3",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch ej3.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
