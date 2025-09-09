@@ -1,0 +1,31 @@
+
+POST   http://localhost:3000/rectangulos
+Content-Type: application/json
+
+{
+   "largo": 7 ,   
+   "ancho": 2
+}
+
+
+
+GET  http://localhost:3000/rectangulos
+
+
+
+GET   http://localhost:3000/rectangulos/0
+
+
+
+PUT   http://localhost:3000/rectangulos/0
+Content-Type: application/json
+
+{
+ "largo" : 5 ,
+ "ancho" : 5
+}
+
+
+
+
+DELETE     http://localhost:3000/rectangulos/0
