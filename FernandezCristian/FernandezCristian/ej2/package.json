@@ -1,0 +1,16 @@
+{
+  "name": "ejercicio2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ej2.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch ej2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
